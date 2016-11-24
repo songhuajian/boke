@@ -7,3 +7,10 @@ tags:
 ---
     2. Alignment
 ---
+    3. Babel
+---
+    4. HTML Beautify
+---
+    5. File Header
+---
+    6. Git, GitGutter
